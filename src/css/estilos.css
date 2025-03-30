@@ -77,6 +77,8 @@ body{
     align-self: center;
 }
 
+
+
 .cartao .informacoes {
     border-radius: 5px;
     max-width: 300px;
@@ -135,6 +137,7 @@ body{
     background: url(../imagens/fundo-7.jpg) no-repeat;
 }
 
+
 .btn-seta{
     background-color: #ffffff;
     width: 70px;
@@ -173,3 +176,12 @@ body::-webkit-scrollbar-track{
 ::-webkit-scrollbar-thumb:hover {
     background: #c08057;
 }
+
+.cabecalho .titulo {
+    color: rgba(20,219,242,1)
+}
+
+
+
+
+
